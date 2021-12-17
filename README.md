@@ -15,7 +15,7 @@ The code was tested with version 0.2.0.
 
 ## Guidance
 
-- Download the HAProxy Image (v0.2.0).
+- Download the HAProxy image (v0.2.0).
 - Move the HAProxy image to the default location: C:\Temp.
 - Change all the variables depending on your environment in the script (HAProxy_Tanzu_Deployment.ps1).
 - Run the script (HAProxy_Tanzu_Deployment.ps1) in PowerShell.
