@@ -23,7 +23,7 @@ The code was tested with version 0.2.0.
 
 ## Related Links
 
-Here are specifics links for code information
+Here are specific links for code information, demo and troubleshooting:
 
 - <https://be-virtual.net/vmware-tanzu-haproxy-unattended-deployment/>
 - <https://be-virtual.net/vmware-tanzu-haproxy-troubleshooting/>
