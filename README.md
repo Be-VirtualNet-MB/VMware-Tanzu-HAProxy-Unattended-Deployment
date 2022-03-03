@@ -27,4 +27,4 @@ Here are specific links for code information, demo and troubleshooting:
 
 - <https://be-virtual.net/vmware-tanzu-haproxy-unattended-deployment/>
 - <https://be-virtual.net/vmware-tanzu-haproxy-troubleshooting/>
-- YouTube link here
+- <https://youtu.be/ENsu2NLWOyc>
